@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+  <html>
+   <head>
+   <link rel="stylesheet" type="text/css" href="style.css2">
+   </head>
+    <body>
+	 <center>
+      <a href="index.html">Back to Page 1<a>
+	  
+      <h1>Games</h1> 
+	  <iframe allowtransparency="true" width="800" height="600" src="https://scratch.mit.edu/projects/68086482/#fullscreen"></iframe>
+	  
+	  <p>Beat the maze to advance! But don't touch the pink lines or the pink bouncing ball!!</p>
+	  
+	  <iframe allowtransparency="true" width="800" height="600" src="https://scratch.mit.edu/projects/68615564/#fullscreen"></iframe>
+	  
+	  <p>Click the characters to see what they have to say! To move the Pony: A= Left; S: Down; D= Right; W= Up.
+	  To move Batman: Arrow pad.</p>
+	  
+      <a href="index.html">Back to Page 1<a> 
+	 </center> 
+    </body>
+  </html>
